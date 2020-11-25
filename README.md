@@ -39,4 +39,8 @@
     Tetris A Theme Guitar<br>
     https://www.youtube.com/watch?v=ZO3CfP-eOLA
   </li>
+  <li>
+    Final Fight 3 - Explosive Situation<br>
+    https://www.youtube.com/watch?v=dqLnJL2sQI0
+  </li>
 </ul>
