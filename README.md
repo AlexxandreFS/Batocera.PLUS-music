@@ -1,7 +1,7 @@
 # Batocera.PLUS MUSIC
 
 <p><b>Para a próxima versão do Batocera.PLUS pretendemos mudar o tema musical.</b></p>
-<b>Os critérios escolhidos foram os seguintes:</b><br>
+<b>Os critérios escolhidos foram os seguintes:</b><br><br>
 
 <ol>
   <li>Não serão aceitas as músicas originais dos jogo.</li>
@@ -27,3 +27,12 @@
 </ol>
 
 <hr>
+
+<h4>Fonts</h4>
+
+<ul>
+  <li>
+    Bomberman Theme [Cover]
+    https://www.youtube.com/watch?v=vvqV6sAYva0
+  </li>
+</ul>
