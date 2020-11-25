@@ -8,6 +8,7 @@
   <li>Somente músicas criadas por covers e remixadas.</li>
   <li>A música precisa passar no filtro de direitos autorais do youtube.</li>
   <li>Não serão aceitas músicas de jogos desconhecidos.</li>
+  <li>As músicas devem ser de jogos e estilos musicais variados.</li>
   <li>Não serão aceitas músicas com longa duração.
     <ul>
       <li>A recomendação é que a música tenha entre 1 e 5 minutos.</li>
@@ -22,8 +23,9 @@
     </ul>
   </li>
   <li>Deve ser adicionado a fonte onde a música foi encontrada.</li>
-  <li>Estes critérios não são fixos para discutir qualquer regra use o grupo do <a href=https://discord.gg/ktyGckZ>DISCORD</a></li>
+  <li>Estes critérios não são fixos para discutir qualquer regra use o grupo do <a href="https://discord.gg/ktyGckZ>DISCORD"</a></li>
   <li>O colaborador que não sabe usar o gihub e deseja enviar uma música pode usar o grupo do discord.</li>
+  <li>Sugestão de site para baixar músicas do youtube no formato certo <a href="https://catchvideo.net/convert-youtube-to-ogg">https://catchvideo.net</a></li>
 </ol>
 
 <hr>
@@ -43,4 +45,6 @@
     Final Fight 3 - Explosive Situation<br>
     https://www.youtube.com/watch?v=dqLnJL2sQI0
   </li>
+    Donkey Kong Country 2 - Hot Head Bop<br>
+    https://youtu.be/0No1WPXWEis
 </ul>
