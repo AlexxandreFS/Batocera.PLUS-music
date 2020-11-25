@@ -1,8 +1,7 @@
 # Batocera.PLUS MUSIC
 
-Para a próxima versão do Batocera.PLUS pretendemos mudar o tema musical.
-
-Os critérios escolhidos foram os seguintes:
+<p><b>Para a próxima versão do Batocera.PLUS pretendemos mudar o tema musical.</b></p>
+<b>Os critérios escolhidos foram os seguintes:</b><br>
 
 <ol>
   <li>Não serão aceitas as músicas originais dos jogo.</li>
@@ -23,8 +22,8 @@ Os critérios escolhidos foram os seguintes:
     </ul>
   </li>
   <li>Deve ser adicionado a fonte onde a música foi encontrada.</li>
-  <li>Estes critérios não são fixos para discutir qualquer regra use o grupo do<a href=https://discord.gg/ktyGckZ>DISCORD</a></li>
-  <li>O colaborador que não sabe usar o gihub para enviar a música pode enviar no grupo do discord.</li>
+  <li>Estes critérios não são fixos para discutir qualquer regra use o grupo do <a href=https://discord.gg/ktyGckZ>DISCORD</a></li>
+  <li>O colaborador que não sabe usar o gihub e deseja enviar uma música pode usar o grupo do discord.</li>
 </ol>
 
 <hr>
