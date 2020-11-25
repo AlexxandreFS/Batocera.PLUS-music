@@ -56,4 +56,8 @@
     Donkey Kong Country 2 - Stickerbrush Symphony<br>
     https://youtu.be/BSqYgIHgqFI
   </li>
+  <li>
+    Shadow of the Colossus - Revived Power Symphonic (need edit)<br>
+    https://youtu.be/3WXqxkPHdUA
+  </li>
 </ul>
