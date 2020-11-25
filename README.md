@@ -32,7 +32,11 @@
 
 <ul>
   <li>
-    Bomberman Theme [Cover]
+    Bomberman Theme<br>
     https://www.youtube.com/watch?v=vvqV6sAYva0
+  </li>
+  <li>
+    Tetris A Theme Guitar<br>
+    https://www.youtube.com/watch?v=ZO3CfP-eOLA
   </li>
 </ul>
