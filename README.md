@@ -25,7 +25,10 @@
   <li>Deve ser adicionado a fonte onde a música foi encontrada.</li>
   <li>Estes critérios não são fixos para discutir qualquer regra use o grupo do <a href="https://discord.gg/ktyGckZ>DISCORD"></a></li>
   <li>O colaborador que não sabe usar o gihub e deseja enviar uma música pode usar o grupo do discord.</li>
-  <li>Sugestão de site para baixar músicas do youtube no formato certo <a href="https://catchvideo.net/convert-youtube-to-ogg">https://catchvideo.net</a></li>
+  <li>Sugestão de site para baixar músicas do youtube
+      <a href="https://catchvideo.net/convert-youtube-to-ogg">https://catchvideo.net</a>
+      <a href="https://anything2mp3.cc">https://anything2mp3.cc</a>
+  </li>
 </ol>
 
 <hr>
@@ -68,5 +71,9 @@
   <li>
     Marvel vs Capcom - Captain America Theme<br>
     https://youtu.be/AbsulC9HYPo
+  </li>
+  <li>
+    Metal Slug 3 - Desert Theme<br>
+    https://youtu.be/p5lVCcwGaYQ
   </li>
 </ul>
