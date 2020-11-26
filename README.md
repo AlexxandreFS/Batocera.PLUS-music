@@ -76,4 +76,14 @@
     Metal Slug 3 - Desert Theme<br>
     https://youtu.be/p5lVCcwGaYQ
   </li>
+  <li>
+    Metal Slug 3 - Midnight Wandering<br>
+    https://youtu.be/gcd_1jA8FqM
+  </li>
+  <li>
+    F-Zero - Big Blue<br>
+    https://youtu.be/XlGdIdLr070
+  </li>
+
+  
 </ul>
