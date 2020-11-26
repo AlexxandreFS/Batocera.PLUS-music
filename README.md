@@ -45,11 +45,12 @@
     Final Fight 3 - Explosive Situation<br>
     https://www.youtube.com/watch?v=dqLnJL2sQI0
   </li>
+  <li>
     Donkey Kong Country 2 - Hot Head Bop<br>
     https://youtu.be/0No1WPXWEis
   </li>
   <li>
-    Super Mario World 2 - Yoshis Island - Flower Garden<br>
+    Super Mario World 2 - Yoshis Island - Flower Garden (need edit)<br>
     https://youtu.be/3S4J2OC-vs0
   </li>
   <li>
@@ -63,5 +64,9 @@
   <li>
     Top Gear - Let's Race - Title Theme<br>
     https://www.youtube.com/watch?v=bwijvl6-Lgg
+  </li>
+  <li>
+    Marvel vs Capcom - Captain America Theme<br>
+    https://youtu.be/AbsulC9HYPo
   </li>
 </ul>
