@@ -23,7 +23,7 @@
     </ul>
   </li>
   <li>Deve ser adicionado a fonte onde a música foi encontrada.</li>
-  <li>Estes critérios não são fixos para discutir qualquer regra use o grupo do <a href="https://discord.gg/ktyGckZ>DISCORD"</a></li>
+  <li>Estes critérios não são fixos para discutir qualquer regra use o grupo do <a href="https://discord.gg/ktyGckZ>DISCORD"></a></li>
   <li>O colaborador que não sabe usar o gihub e deseja enviar uma música pode usar o grupo do discord.</li>
   <li>Sugestão de site para baixar músicas do youtube no formato certo <a href="https://catchvideo.net/convert-youtube-to-ogg">https://catchvideo.net</a></li>
 </ol>
@@ -59,5 +59,9 @@
   <li>
     Shadow of the Colossus - Revived Power Symphonic (need edit)<br>
     https://youtu.be/3WXqxkPHdUA
+  </li>
+  <li>
+    Top Gear - Let's Race - Title Theme<br>
+    https://www.youtube.com/watch?v=bwijvl6-Lgg
   </li>
 </ul>
